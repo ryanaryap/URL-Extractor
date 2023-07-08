@@ -1,20 +1,23 @@
-# URL-Extractor
-URL Extractor adalah sebuah kode Python sederhana yang dirancang untuk mengambil URL depan dari sebuah daftar URL yang terdapat dalam sebuah file teks. Aplikasi ini memberikan kemudahan dalam mengekstraksi dan mengolah URL secara efisien.
+# URL Extractor
 
-**#Cara Penggunaan:**
+URL Extractor is a simple Python code designed to extract the domain name from a list of URLs stored in a text file. This application provides a convenient way to extract and process URLs efficiently.
 
-⚠️Pastikan Anda memiliki instalasi Python yang sesuai di sistem Anda.
-1. Siapkan file teks yang berisi daftar URL, dengan satu URL per baris, misal : **tes.txt**.
-2. Jalankan script URL Extractor menggunakan Python **python url-extractor.py**.
-3. Program akan meminta Anda untuk memasukkan nama file teks yang berisi daftar URL **tes.txt**.
-4. Setelah Anda memasukkan nama file, program akan membaca daftar URL dari file tersebut.
-5. URL depan akan diekstraksi dari setiap URL yang valid, dan protokol http:// atau https:// akan ditambahkan ke URL depan.
-6. Output URL depan yang telah ditambahkan protokol akan dicetak di layar dan **disimpan dalam file result.txt**.
-Selesai! Anda dapat menemukan output dalam file **result.txt** di direktori yang sama dengan script Python yang dieksekusi.
+## How to Use
 
-📝Catatan:
-**=>** Pastikan file teks berisi satu URL per baris untuk hasil yang akurat.
-**=>** URL yang tidak valid akan dicetak dengan pesan kesalahan.
-**=>** Output URL depan juga akan disimpan dalam file result.txt untuk referensi dan penggunaan berikutnya.
-**=>** Aplikasi URL Extractor ini membantu Anda dengan cepat dan mudah mengambil URL depan dari file teks, mempercepat proses ekstraksi URL dalam berbagai skenario seperti analisis data, pemrosesan teks, atau pengumpulan informasi dari daftar URL yang ada. 
-**=>** Pastikan penggunaan aplikasi ini sesuai dengan undang-undang dan peraturan yang berlaku di wilayah Anda. Pengembang tidak bertanggung jawab atas penggunaan yang melanggar atau ilegal.
+⚠️ Make sure you have a suitable Python installation on your system.
+
+1. Prepare a text file containing a list of URLs, with one URL per line, e.g., **urls.txt**.
+2. Run the URL Extractor script using Python: **`python url_extractor.py`**.
+3. The program will prompt you to enter the name of the text file containing the URLs, e.g., **urls.txt**.
+4. After entering the file name, the program will read the list of URLs from the file.
+5. The domain name will be extracted from each valid URL, and the protocol (http:// or https://) will be added to the domain name.
+6. The resulting URLs with the added protocol will be displayed on the screen and **saved in the result.txt file**.
+7. Finished! You can find the output in the **result.txt** file in the same directory as the executed Python script.
+
+## Notes
+
+- **Make sure the text file contains one URL per line** for accurate results.
+- Invalid URLs will be displayed with an error message.
+- The output URLs with the added protocol will also be saved in the **result.txt** file for future reference and use.
+- URL Extractor helps you quickly and easily extract domain names from a text file, speeding up the URL extraction process in various scenarios such as data analysis, text processing, or information gathering from existing URL lists.
+- Ensure that the usage of this application complies with the laws and regulations applicable in your region. The developer is not responsible for any illegal or unauthorized use.
