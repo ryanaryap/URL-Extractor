@@ -1,5 +1,5 @@
 # Author Ryan Arya Pramudya
-# GitHub https://github.com/ryanaryap
+# My GitHub https://github.com/ryanaryap
 import re
 
 # Membaca daftar URL dari file teks
