@@ -16,4 +16,5 @@ Selesai! Anda dapat menemukan output dalam file **result.txt** di direktori yang
 **=>** Pastikan file teks berisi satu URL per baris untuk hasil yang akurat.
 **=>** URL yang tidak valid akan dicetak dengan pesan kesalahan.
 **=>** Output URL depan juga akan disimpan dalam file result.txt untuk referensi dan penggunaan berikutnya.
-**=>** Aplikasi URL Extractor ini membantu Anda dengan cepat dan mudah mengambil URL depan dari file teks, mempercepat proses ekstraksi URL dalam berbagai skenario seperti analisis data, pemrosesan teks, atau pengumpulan informasi dari daftar URL yang ada.
+**=>** Aplikasi URL Extractor ini membantu Anda dengan cepat dan mudah mengambil URL depan dari file teks, mempercepat proses ekstraksi URL dalam berbagai skenario seperti analisis data, pemrosesan teks, atau pengumpulan informasi dari daftar URL yang ada. 
+**=>** Pastikan penggunaan aplikasi ini sesuai dengan undang-undang dan peraturan yang berlaku di wilayah Anda. Pengembang tidak bertanggung jawab atas penggunaan yang melanggar atau ilegal.
